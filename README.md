@@ -1,6 +1,6 @@
 # ChineseModernBert
 <p>
-    💜 <a href=""><b>ChineseModernBert</b></a> &nbsp ｜ &nbsp 🖥️ <a href="https://github.com/enze5088/ChineseModernBert">GitHub</a> &nbsp  | &nbsp🤗 <a href="https://huggingface.co/TurboPascal/ChineseModernBert">Hugging Face</a>&nbsp  | &nbsp 📑 <a href="https://zhuanlan.zhihu.com/p/26774266896">Blog</a> &nbsp 
+<a href=""><b>ChineseModernBert</b></a>&nbsp｜&nbsp🖥️<a href="https://github.com/enze5088/ChineseModernBert">GitHub</a>&nbsp|&nbsp🤗<a href="https://huggingface.co/TurboPascal/ChineseModernBert">Hugging Face</a>&nbsp|&nbsp📑<a href="https://zhuanlan.zhihu.com/p/26774266896">Blog</a>&nbsp 
 <br>
 
 在自然语言处理领域，[BERT](https://huggingface.co/papers/1810.04805)自 2018 年发布以来，凭借其在语言理解和生成任务上的卓越表现，一直被广泛应用。然而，随着时间的推移，无论是中文还是英文的常用 Bert 模型，由于其发布时间距今已有 5 - 6 年，在模型架构和训练数据方面都逐渐显露出陈旧的问题。
