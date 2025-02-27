@@ -1,5 +1,5 @@
 # ChineseModernBert
-<p align="center">
+<p>
     💜 <a href=""><b>ChineseModernBert</b></a> &nbsp ｜ &nbsp 🖥️ <a href="https://github.com/enze5088/ChineseModernBert">GitHub</a> &nbsp  | &nbsp🤗 <a href="https://huggingface.co/TurboPascal/ChineseModernBert">Hugging Face</a>&nbsp  | &nbsp 📑 <a href="https://zhuanlan.zhihu.com/p/26774266896">Blog</a> &nbsp 
 <br>
 
