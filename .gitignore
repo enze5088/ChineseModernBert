@@ -1,0 +1,6 @@
+*.json
+*.pyc
+*.csv
+*.ipynb
+/save/*
+.idea
